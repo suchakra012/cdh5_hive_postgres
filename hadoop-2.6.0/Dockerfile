@@ -1,6 +1,6 @@
 # Creates pseudo distributed hadoop 2.6.0 in ubuntu
 FROM ubuntu
-MAINTAINER Tilak Patidar
+MAINTAINER Suman
 
 USER root
 #expected build args
